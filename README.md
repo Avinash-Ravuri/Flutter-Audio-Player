@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1705064339](https://github.com/Avinash-Ravuri/Flutter-Audio-Player/assets/103620465/f8894315-2e3c-4f5d-90a7-dbdfeb06232c)
 ![Screenshot_1705064344](https://github.com/Avinash-Ravuri/Flutter-Audio-Player/assets/103620465/347fa0dd-fcac-4e7f-b942-5c316839215b)
+![Screenshot_1705064349](https://github.com/Avinash-Ravuri/Flutter-Audio-Player/assets/103620465/017952fe-d692-46df-8903-7cf72f083a84)
